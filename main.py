@@ -7,7 +7,6 @@ from kivy.uix.button import Button
 from kivy.uix.relativelayout import RelativeLayout
 from kivy.uix.textinput import TextInput
 from kivy.animation import Animation
-import string,random
 
 Builder.load_string('''
 <updlbl>:
